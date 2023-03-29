@@ -1,0 +1,9 @@
+.card{
+    background: rgb(250, 250, 250);
+    border-radius: 15px;
+    margin: auto;
+    width: 25%;
+
+    display: flex;
+    margin-top: 40px;
+}
